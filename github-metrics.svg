@@ -1331,7 +1331,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Giorgi/EntityFramework.Exceptions</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Handle database errors easily when working with Entity Framework Core. Supports SQLServer, PostgreSQL, SQLite, Oracle and  MySql</div>
@@ -1384,7 +1384,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jnidzwetzki/mysql-ha-cloud</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This container image provides a highly available and replicated MySQL installation in Kubernetes or Docker Swarm. Consul, ProxySQL, and XtraBackup are used for leader election, load distribution, and backups.</div>
@@ -1471,7 +1471,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        25
+                                        26
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
