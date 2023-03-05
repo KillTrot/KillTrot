@@ -1319,7 +1319,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>App-vNext/Polly</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.</div>
@@ -1425,7 +1425,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>btcpayserver/btcpayserver</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Accept Bitcoin payments. Free, open-source &amp; self-hosted, Bitcoin payment processor.</div>
